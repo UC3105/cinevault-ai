@@ -31,6 +31,13 @@ const banners: BannerItem[] = [
     emoji: '🎬',
     color: '#e74c3c',
   },
+  {
+    label: 'Iranian Cinema',
+    description: 'Majidi · Kiarostami · Farhadi · Children & humanity',
+    route: '/iranian-cinema',
+    emoji: '🇮🇷',
+    color: '#27ae60',
+  },
 ]
 
 const PageBanner = () => {
