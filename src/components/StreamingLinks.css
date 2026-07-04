@@ -1,0 +1,36 @@
+.streaming {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 0 4px;
+  border-top: 1px solid #3a3a3a;
+  margin-top: 8px;
+}
+
+.streaming-label {
+  color: #888;
+  font-size: 12px;
+  white-space: nowrap;
+}
+
+.streaming-btns {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.streaming-btn {
+  padding: 4px 12px;
+  border-radius: 4px;
+  border: 1px solid;
+  font-size: 11px;
+  font-weight: 700;
+  text-decoration: none;
+  transition: opacity 0.15s, transform 0.15s;
+  letter-spacing: 0.3px;
+}
+
+.streaming-btn:hover {
+  opacity: 0.75;
+  transform: translateY(-1px);
+}

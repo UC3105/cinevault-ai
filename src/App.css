@@ -1,0 +1,60 @@
+.app {
+  display: flex;
+  min-height: 100vh;
+  background: #1a1a1a;
+  align-items: stretch;
+}
+
+.main-content {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 24px;
+  min-height: 100vh;
+}
+
+.content-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.top-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 820px;
+  max-width: 100%;
+}
+
+.site-title {
+  font-size: 22px;
+  font-weight: 900;
+  color: #fff;
+  margin: 0;
+}
+
+.site-sub {
+  font-size: 14px;
+  font-weight: 400;
+  color: #555;
+}
+
+.watchlist-count {
+  font-size: 13px;
+  color: #2ecc71;
+  font-weight: 700;
+  background: #0f2a15;
+  border: 1px solid #2ecc7133;
+  padding: 6px 14px;
+  border-radius: 20px;
+}
+
+.no-results {
+  color: #555;
+  font-size: 14px;
+  padding: 32px 0;
+  width: 820px;
+  text-align: center;
+}

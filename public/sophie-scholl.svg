@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="320" viewBox="0 0 220 320">
+  <rect width="220" height="320" fill="#111111"/>
+  <rect x="0" y="200" width="220" height="120" fill="#080808"/>
+  <text x="110" y="228" font-family="sans-serif" font-size="11" fill="#cccccc" text-anchor="middle" font-weight="bold">SOPHIE SCHOLL</text>
+  <text x="110" y="248" font-family="sans-serif" font-size="10" fill="#aaa" text-anchor="middle">THE FINAL DAYS</text>
+  <text x="110" y="275" font-family="sans-serif" font-size="10" fill="#666" text-anchor="middle">2005</text>
+  <rect x="80" y="60" width="60" height="90" fill="none" stroke="#ccc" stroke-width="1" opacity="0.15"/>
+  <text x="110" y="120" font-family="sans-serif" font-size="36" fill="#ccc" text-anchor="middle" opacity="0.12">✝</text>
+</svg>
