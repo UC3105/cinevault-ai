@@ -13,6 +13,7 @@ import MerylPage from './pages/MerylPage'
 import DeniroPage from './pages/DeniroPage'
 import IranianPage from './pages/IranianPage'
 import AshaPage from './pages/AshaPage'
+import GuruDuttPage from './pages/GuruDuttPage'
 import { movies } from './data/movies'
 import './App.css'
 
@@ -87,6 +88,7 @@ const App = () => (
     <Route path="/robert-de-niro" element={<DeniroPage />} />
     <Route path="/iranian-cinema" element={<IranianPage />} />
     <Route path="/asha-parekh" element={<AshaPage />} />
+    <Route path="/guru-dutt" element={<GuruDuttPage />} />
   </Routes>
 )
 

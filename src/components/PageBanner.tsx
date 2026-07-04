@@ -45,6 +45,13 @@ const banners: BannerItem[] = [
     emoji: '🌺',
     color: '#e91e63',
   },
+  {
+    label: 'Guru Dutt',
+    description: 'Pyaasa · Kaagaz Ke Phool · Master of poetic cinema',
+    route: '/guru-dutt',
+    emoji: '🎞️',
+    color: '#c0392b',
+  },
 ]
 
 const PageBanner = () => {
