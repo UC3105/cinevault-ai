@@ -15,7 +15,7 @@ export const merylMovies: Movie[] = [
     metascore: 8.6,
     usersRating: 8.1,
     poster: '/meryl-deer-hunter.jpg',
-    trailerId: 'SjkFmTQOAeI',
+    trailerId: 'g7q1SjVdsNk',
     cast: [
       { name: 'Meryl Streep', role: 'Linda', initials: 'MS' },
       { name: 'Robert De Niro', role: 'Michael', initials: 'RD' },
@@ -38,7 +38,7 @@ export const merylMovies: Movie[] = [
     metascore: 7.9,
     usersRating: 8.0,
     poster: '/meryl-sophies-choice.jpg',
-    trailerId: 'Bl6lAMRrNHs',
+    trailerId: 'STPJVf6wqCk',
     cast: [
       { name: 'Meryl Streep', role: 'Sophie Zawistowski', initials: 'MS' },
       { name: 'Kevin Kline', role: 'Nathan Landau', initials: 'KK' },
@@ -61,7 +61,7 @@ export const merylMovies: Movie[] = [
     metascore: 7.6,
     usersRating: 7.8,
     poster: '/meryl-silkwood.jpg',
-    trailerId: 'bLI4w28gHXU',
+    trailerId: 'iNyrSR5JGh8',
     cast: [
       { name: 'Meryl Streep', role: 'Karen Silkwood', initials: 'MS' },
       { name: 'Kurt Russell', role: 'Drew Stephens', initials: 'KR' },
@@ -85,7 +85,7 @@ export const merylMovies: Movie[] = [
     metascore: 7.9,
     usersRating: 7.8,
     poster: '/meryl-kramer.jpg',
-    trailerId: 'W3fTHlpfJ60',
+    trailerId: 'KZfIl9isKLU',
     cast: [
       { name: 'Meryl Streep', role: 'Joanna Kramer', initials: 'MS' },
       { name: 'Dustin Hoffman', role: 'Ted Kramer', initials: 'DH' },
@@ -108,7 +108,7 @@ export const merylMovies: Movie[] = [
     metascore: 7.3,
     usersRating: 7.2,
     poster: '/meryl-out-of-africa.jpg',
-    trailerId: 'cj4Ih4ETYAA',
+    trailerId: '2EW2kNCmZZ0',
     cast: [
       { name: 'Meryl Streep', role: 'Karen Blixen', initials: 'MS' },
       { name: 'Robert Redford', role: 'Denys Finch Hatton', initials: 'RR' },
@@ -131,7 +131,7 @@ export const merylMovies: Movie[] = [
     metascore: 7.9,
     usersRating: 7.5,
     poster: '/meryl-doubt.jpg',
-    trailerId: 'r0t_QXJtGGM',
+    trailerId: 'Ad8gw-Qdjj8',
     cast: [
       { name: 'Meryl Streep', role: 'Sister Aloysius', initials: 'MS' },
       { name: 'Philip Seymour Hoffman', role: 'Father Flynn', initials: 'PH' },
@@ -155,7 +155,7 @@ export const merylMovies: Movie[] = [
     metascore: 5.2,
     usersRating: 6.4,
     poster: '/meryl-iron-lady.jpg',
-    trailerId: 'Fq_P0TMWclo',
+    trailerId: 'NEsWiJtCoYc',
     cast: [
       { name: 'Meryl Streep', role: 'Margaret Thatcher', initials: 'MS' },
       { name: 'Jim Broadbent', role: 'Denis Thatcher', initials: 'JB' },
@@ -178,7 +178,7 @@ export const merylMovies: Movie[] = [
     metascore: 7.8,
     usersRating: 7.0,
     poster: '/meryl-florence.jpg',
-    trailerId: 'Oig9G7KZJZQ',
+    trailerId: 'qth6y8SrXNY',
     cast: [
       { name: 'Meryl Streep', role: 'Florence Foster Jenkins', initials: 'MS' },
       { name: 'Hugh Grant', role: 'St Clair Bayfield', initials: 'HG' },
@@ -202,7 +202,7 @@ export const merylMovies: Movie[] = [
     metascore: 6.2,
     usersRating: 6.9,
     poster: '/meryl-devil-prada.jpg',
-    trailerId: 'nFqMgJgwgMc',
+    trailerId: '6ZOZwUQKu3E',
     cast: [
       { name: 'Meryl Streep', role: 'Miranda Priestly', initials: 'MS' },
       { name: 'Anne Hathaway', role: 'Andy Sachs', initials: 'AH' },
@@ -225,7 +225,7 @@ export const merylMovies: Movie[] = [
     metascore: 5.1,
     usersRating: 6.5,
     poster: '/meryl-mamma-mia.jpg',
-    trailerId: 'AJqdbnj_iE0',
+    trailerId: 'lkN-A00WLYE',
     cast: [
       { name: 'Meryl Streep', role: 'Donna Sheridan', initials: 'MS' },
       { name: 'Amanda Seyfried', role: 'Sophie Sheridan', initials: 'AS' },

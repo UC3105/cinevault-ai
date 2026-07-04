@@ -14,7 +14,7 @@ export const seriesList: Series[] = [
     criticsRating: 8.6,
     usersRating: 8.2,
     poster: '/outlander.jpg',
-    trailerId: 'ObRjnrFJYEY',
+    trailerId: 'PFFKjptRr7Y',
     cast: [
       { name: 'Caitríona Balfe', role: 'Claire Fraser', initials: 'CB' },
       { name: 'Sam Heughan', role: 'Jamie Fraser', initials: 'SH' },
@@ -38,7 +38,7 @@ export const seriesList: Series[] = [
     criticsRating: 8.8,
     usersRating: 8.2,
     poster: '/holocaust-weiss.png',
-    trailerId: 'Kx_S5YEzOo0',
+    trailerId: 'nZy_i9EApOE',
     cast: [
       { name: 'Meryl Streep', role: 'Inga Helms Weiss', initials: 'MS' },
       { name: 'James Woods', role: 'Karl Weiss', initials: 'JW' },

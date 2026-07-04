@@ -15,7 +15,7 @@ export const deniroMovies: Movie[] = [
     metascore: 9.0,
     usersRating: 9.0,
     poster: '/deniro-godfather2.jpg',
-    trailerId: 'qf2yAGeVLOc',
+    trailerId: 'rcU6DUUUd7k',
     cast: [
       { name: 'Robert De Niro', role: 'Young Vito Corleone', initials: 'RD' },
       { name: 'Al Pacino', role: 'Michael Corleone', initials: 'AP' },
@@ -63,7 +63,7 @@ export const deniroMovies: Movie[] = [
     metascore: 7.3,
     usersRating: 8.2,
     poster: '/deniro-casino.jpg',
-    trailerId: 'sU0oOcRmMlg',
+    trailerId: 'EJXDMwGWhoA',
     cast: [
       { name: 'Robert De Niro', role: 'Sam Rothstein', initials: 'RD' },
       { name: 'Sharon Stone', role: 'Ginger McKenna', initials: 'SS' },
@@ -87,7 +87,7 @@ export const deniroMovies: Movie[] = [
     metascore: 9.4,
     usersRating: 8.2,
     poster: '/deniro-taxi-driver.jpg',
-    trailerId: 'UUxoQ2gKBNk',
+    trailerId: 'cujiHDeqnHY',
     cast: [
       { name: 'Robert De Niro', role: 'Travis Bickle', initials: 'RD' },
       { name: 'Jodie Foster', role: 'Iris', initials: 'JF' },
@@ -110,7 +110,7 @@ export const deniroMovies: Movie[] = [
     metascore: 7.3,
     usersRating: 7.3,
     poster: '/deniro-cape-fear.jpg',
-    trailerId: 'RFbNDgNNxjk',
+    trailerId: 'eCJWGk4iF3E',
     cast: [
       { name: 'Robert De Niro', role: 'Max Cady', initials: 'RD' },
       { name: 'Nick Nolte', role: 'Sam Bowden', initials: 'NN' },
@@ -134,7 +134,7 @@ export const deniroMovies: Movie[] = [
     metascore: 9.3,
     usersRating: 8.2,
     poster: '/deniro-raging-bull.jpg',
-    trailerId: 'k2bqrdKL4hc',
+    trailerId: 'ZfvH-DR2KJ4',
     cast: [
       { name: 'Robert De Niro', role: 'Jake LaMotta', initials: 'RD' },
       { name: 'Joe Pesci', role: 'Joey LaMotta', initials: 'JP' },
@@ -158,7 +158,7 @@ export const deniroMovies: Movie[] = [
     metascore: 7.6,
     usersRating: 8.3,
     poster: '/deniro-heat.jpg',
-    trailerId: 'hcKTEHHxj10',
+    trailerId: 'h94qOwhGza4',
     cast: [
       { name: 'Robert De Niro', role: 'Neil McCauley', initials: 'RD' },
       { name: 'Al Pacino', role: 'Vincent Hanna', initials: 'AP' },
@@ -182,7 +182,7 @@ export const deniroMovies: Movie[] = [
     metascore: 7.0,
     usersRating: 7.4,
     poster: '/deniro-mission.jpg',
-    trailerId: 'tMoTRLSNVoo',
+    trailerId: 'o7aTvYJBHw4',
     cast: [
       { name: 'Robert De Niro', role: 'Rodrigo Mendoza', initials: 'RD' },
       { name: 'Jeremy Irons', role: 'Father Gabriel', initials: 'JI' },
@@ -206,7 +206,7 @@ export const deniroMovies: Movie[] = [
     metascore: 7.3,
     usersRating: 7.0,
     poster: '/deniro-meet-parents.jpg',
-    trailerId: 'bkHpCFf8cJ8',
+    trailerId: '2djcavCEajA',
     cast: [
       { name: 'Robert De Niro', role: 'Jack Byrnes', initials: 'RD' },
       { name: 'Ben Stiller', role: 'Greg Focker', initials: 'BS' },
@@ -230,7 +230,7 @@ export const deniroMovies: Movie[] = [
     metascore: 8.1,
     usersRating: 7.7,
     poster: '/deniro-silver-linings.jpg',
-    trailerId: 'YS4TQpSANAM',
+    trailerId: '_-P-13H5ZhA',
     cast: [
       { name: 'Robert De Niro', role: 'Pat Sr.', initials: 'RD' },
       { name: 'Bradley Cooper', role: 'Pat Solitano', initials: 'BC' },
