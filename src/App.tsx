@@ -10,6 +10,7 @@ import Footer from './components/Footer'
 import PageBanner from './components/PageBanner'
 import SeriesPage from './pages/SeriesPage'
 import MerylPage from './pages/MerylPage'
+import DeniroPage from './pages/DeniroPage'
 import { movies } from './data/movies'
 import './App.css'
 
@@ -81,6 +82,7 @@ const App = () => (
     <Route path="/" element={<HomePage />} />
     <Route path="/series" element={<SeriesPage />} />
     <Route path="/meryl-streep" element={<MerylPage />} />
+    <Route path="/robert-de-niro" element={<DeniroPage />} />
   </Routes>
 )
 

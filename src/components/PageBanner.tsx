@@ -24,6 +24,13 @@ const banners: BannerItem[] = [
     emoji: '🎭',
     color: '#e8b4d0',
   },
+  {
+    label: 'Robert De Niro',
+    description: '2 Oscars · Scorsese collaborations & beyond',
+    route: '/robert-de-niro',
+    emoji: '🎬',
+    color: '#e74c3c',
+  },
 ]
 
 const PageBanner = () => {
