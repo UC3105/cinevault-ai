@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
+import { Helmet } from 'react-helmet-async'
 import SeriesCard from '../components/SeriesCard'
 import SearchBar from '../components/SearchBar'
 import GenreFilter from '../components/GenreFilter'
@@ -38,6 +39,12 @@ const SeriesPage = () => {
   })
 
   return (
+    <>
+      <Helmet>
+        <title>TV Series — CineVault | Curated Show Reviews</title>
+        <meta name="description" content="Binge-worthy TV series curated by CineVault. Reviews, ratings and streaming links for the best shows including Outlander and Holocaust – Die Geschichte der Familie Weiss." />
+        <link rel="canonical" href="https://cinevault-pi-five.vercel.app/series" />
+      </Helmet>
     <div className="app">
       <Sidebar />
       <main className="main-content">
@@ -74,6 +81,7 @@ const SeriesPage = () => {
         </div>
       </main>
     </div>
+    </>
   )
 }
 

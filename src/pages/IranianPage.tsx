@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
+import { Helmet } from 'react-helmet-async'
 import MovieCard from '../components/MovieCard'
 import SearchBar from '../components/SearchBar'
 import GenreFilter from '../components/GenreFilter'
@@ -38,6 +39,12 @@ const IranianPage = () => {
   })
 
   return (
+    <>
+      <Helmet>
+        <title>Iranian Cinema — CineVault | Majidi, Kiarostami, Farhadi</title>
+        <meta name="description" content="Discover the best of Iranian cinema on CineVault. Children of Heaven, A Separation, Turtles Can Fly, The Color of Paradise — reviews, ratings and trailers." />
+        <link rel="canonical" href="https://cinevault-pi-five.vercel.app/iranian-cinema" />
+      </Helmet>
     <div className="app">
       <Sidebar />
       <main className="main-content">
@@ -83,6 +90,7 @@ const IranianPage = () => {
         </div>
       </main>
     </div>
+    </>
   )
 }
 

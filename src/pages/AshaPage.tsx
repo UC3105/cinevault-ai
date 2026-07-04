@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
+import { Helmet } from 'react-helmet-async'
 import MovieCard from '../components/MovieCard'
 import SearchBar from '../components/SearchBar'
 import GenreFilter from '../components/GenreFilter'
@@ -38,6 +39,12 @@ const AshaPage = () => {
   })
 
   return (
+    <>
+      <Helmet>
+        <title>Asha Parekh Films — CineVault | The Hit Girl of Bollywood</title>
+        <meta name="description" content="Explore Asha Parekh's classic Bollywood filmography on CineVault. Teesri Manzil, Kati Patang, Caravan, Mere Sanam with Biswajit and more — reviews, ratings and trailers." />
+        <link rel="canonical" href="https://cinevault-pi-five.vercel.app/asha-parekh" />
+      </Helmet>
     <div className="app">
       <Sidebar />
       <main className="main-content">
@@ -83,6 +90,7 @@ const AshaPage = () => {
         </div>
       </main>
     </div>
+    </>
   )
 }
 

@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
+import { Helmet } from 'react-helmet-async'
 import MovieCard from '../components/MovieCard'
 import SearchBar from '../components/SearchBar'
 import GenreFilter from '../components/GenreFilter'
@@ -38,6 +39,12 @@ const MerylPage = () => {
   })
 
   return (
+    <>
+      <Helmet>
+        <title>Meryl Streep Films — CineVault | 3 Oscars, Essential Filmography</title>
+        <meta name="description" content="Explore Meryl Streep's essential filmography on CineVault. The Deer Hunter, Sophie's Choice, The Devil Wears Prada, Kramer vs. Kramer and more — reviews, ratings and trailers." />
+        <link rel="canonical" href="https://cinevault-pi-five.vercel.app/meryl-streep" />
+      </Helmet>
     <div className="app">
       <Sidebar />
       <main className="main-content">
@@ -85,6 +92,7 @@ const MerylPage = () => {
         </div>
       </main>
     </div>
+    </>
   )
 }
 
