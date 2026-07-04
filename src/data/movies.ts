@@ -38,7 +38,7 @@ export const movies: Movie[] = [
     metascore: 7.8,
     usersRating: 8.3,
     poster: '/once-upon.jpg',
-    trailerId: 'VlCOLOkOOVA',
+    trailerId: 'LcpCRyNo8T8',
     cast: [
       { name: 'Robert De Niro', role: 'Noodles', initials: 'RD' },
       { name: 'James Woods', role: 'Max', initials: 'JW' },
@@ -61,7 +61,7 @@ export const movies: Movie[] = [
     metascore: 7.2,
     usersRating: 7.6,
     poster: '/finding-neverland.jpg',
-    trailerId: 'MKV_xCHWHHg',
+    trailerId: '8ELet8kRsP8',
     cast: [
       { name: 'Johnny Depp', role: 'J.M. Barrie', initials: 'JD' },
       { name: 'Kate Winslet', role: 'Sylvia Llewelyn Davies', initials: 'KW' },
@@ -85,7 +85,7 @@ export const movies: Movie[] = [
     metascore: 7.9,
     usersRating: 8.0,
     poster: '/mother-india.jpg',
-    trailerId: 'cN3QXjUlMdY',
+    trailerId: 'ERGkaV8p4k4',
     cast: [
       { name: 'Nargis', role: 'Radha', initials: 'NA' },
       { name: 'Sunil Dutt', role: 'Birju', initials: 'SD' },
@@ -108,7 +108,7 @@ export const movies: Movie[] = [
     metascore: 7.6,
     usersRating: 7.9,
     poster: '/sophie-scholl.jpg',
-    trailerId: 'g3G3msWHCzI',
+    trailerId: 'XM5A4ETW_Io',
     cast: [
       { name: 'Julia Jentsch', role: 'Sophie Scholl', initials: 'JJ' },
       { name: 'Fabian Hinrichs', role: 'Hans Scholl', initials: 'FH' },
@@ -131,7 +131,7 @@ export const movies: Movie[] = [
     metascore: 7.4,
     usersRating: 7.7,
     poster: '/wind-barley.jpg',
-    trailerId: 'NH_FoXbxB6M',
+    trailerId: '6yvHe_ksnDA',
     cast: [
       { name: 'Cillian Murphy', role: "Damien O'Donovan", initials: 'CM' },
       { name: 'Pádraic Delaney', role: "Teddy O'Donovan", initials: 'PD' },
@@ -154,7 +154,7 @@ export const movies: Movie[] = [
     metascore: 7.5,
     usersRating: 7.9,
     poster: '/to-sir-with-love.jpg',
-    trailerId: 'oDNs1rn1MXc',
+    trailerId: 'oMAjca-pgr4',
     cast: [
       { name: 'Sidney Poitier', role: 'Mark Thackeray', initials: 'SP' },
       { name: 'Judy Geeson', role: 'Pamela Dare', initials: 'JG' },
@@ -177,7 +177,7 @@ export const movies: Movie[] = [
     metascore: 7.5,
     usersRating: 7.8,
     poster: '/lilies-of-field.jpg',
-    trailerId: 'VxWS3Ij9HU0',
+    trailerId: '8aL0ml00S9Q',
     cast: [
       { name: 'Sidney Poitier', role: 'Homer Smith', initials: 'SP' },
       { name: 'Lilia Skala', role: 'Mother Maria', initials: 'LS' },
@@ -200,7 +200,7 @@ export const movies: Movie[] = [
     metascore: 8.0,
     usersRating: 8.1,
     poster: '/weisse-naechte.jpg',
-    trailerId: 'xNDGiUq6KpI',
+    trailerId: '-PyMjBuqvFA',
     cast: [
       { name: 'Marcello Mastroianni', role: 'Mario', initials: 'MM' },
       { name: 'Maria Schell', role: 'Natalia', initials: 'MS' },
@@ -223,7 +223,7 @@ export const movies: Movie[] = [
     metascore: 8.2,
     usersRating: 8.3,
     poster: '/die-bruecke.jpg',
-    trailerId: 'AUMWfxMa9wk',
+    trailerId: 'XyF6Wx2Z2h0',
     cast: [
       { name: 'Folker Bohnet', role: 'Hans Scholten', initials: 'FB' },
       { name: 'Fritz Wepper', role: 'Albert Mutz', initials: 'FW' },
@@ -246,7 +246,7 @@ export const movies: Movie[] = [
     metascore: 8.0,
     usersRating: 8.1,
     poster: '/tin-drum.jpg',
-    trailerId: 'EzPJlFnwDXQ',
+    trailerId: '2ewzWkFZOFk',
     cast: [
       { name: 'David Bennent', role: 'Oskar Matzerath', initials: 'DB' },
       { name: 'Mario Adorf', role: 'Alfred Matzerath', initials: 'MA' },
