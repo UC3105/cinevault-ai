@@ -12,6 +12,7 @@ import SeriesPage from './pages/SeriesPage'
 import MerylPage from './pages/MerylPage'
 import DeniroPage from './pages/DeniroPage'
 import IranianPage from './pages/IranianPage'
+import AshaPage from './pages/AshaPage'
 import { movies } from './data/movies'
 import './App.css'
 
@@ -85,6 +86,7 @@ const App = () => (
     <Route path="/meryl-streep" element={<MerylPage />} />
     <Route path="/robert-de-niro" element={<DeniroPage />} />
     <Route path="/iranian-cinema" element={<IranianPage />} />
+    <Route path="/asha-parekh" element={<AshaPage />} />
   </Routes>
 )
 

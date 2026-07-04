@@ -38,6 +38,13 @@ const banners: BannerItem[] = [
     emoji: '🇮🇷',
     color: '#27ae60',
   },
+  {
+    label: 'Asha Parekh',
+    description: 'The Hit Girl of Bollywood · Classic 60s & 70s films',
+    route: '/asha-parekh',
+    emoji: '🌺',
+    color: '#e91e63',
+  },
 ]
 
 const PageBanner = () => {
