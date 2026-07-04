@@ -11,7 +11,7 @@
 
 /* LEFT PANEL */
 .card-left {
-  width: 220px;
+  width: 160px;
   flex-shrink: 0;
   display: flex;
   flex-direction: column;
@@ -20,7 +20,7 @@
 
 .poster-wrap {
   width: 100%;
-  height: 280px;
+  height: 200px;
   overflow: hidden;
 }
 
@@ -34,13 +34,13 @@
 
 .card-actions {
   display: flex;
-  gap: 8px;
-  padding: 12px 10px;
+  flex-direction: column;
+  gap: 6px;
+  padding: 8px;
 }
 
 .btn-primary {
-  flex: 1;
-  padding: 8px 6px;
+  padding: 7px 6px;
   background: #2ecc71;
   color: #000;
   border: none;
@@ -50,6 +50,7 @@
   letter-spacing: 0.5px;
   cursor: pointer;
   transition: background 0.2s;
+  text-align: center;
 }
 
 .btn-primary:hover {
@@ -63,8 +64,7 @@
 }
 
 .btn-outline {
-  flex: 1;
-  padding: 8px 6px;
+  padding: 7px 6px;
   background: transparent;
   color: #ccc;
   border: 1px solid #555;
@@ -74,6 +74,7 @@
   letter-spacing: 0.5px;
   cursor: pointer;
   transition: border-color 0.2s, color 0.2s;
+  text-align: center;
 }
 
 .btn-outline:hover {
@@ -81,28 +82,13 @@
   color: #2ecc71;
 }
 
-.stills-row {
-  display: flex;
-  gap: 4px;
-  padding: 0 10px 12px;
-  flex: 1;
-  align-items: flex-end;
-}
-
-.still {
-  flex: 1;
-  height: 52px;
-  border-radius: 2px;
-}
-
-.s1 { background: #303030; }
-.s2 { background: #383838; }
-.s3 { background: #2e2e2e; }
+.stills-row { display: none; }
+.still { display: none; }
 
 /* RIGHT PANEL */
 .card-right {
   flex: 1;
-  padding: 28px 28px 20px;
+  padding: 14px 18px 14px;
   display: flex;
   flex-direction: column;
   gap: 0;
@@ -110,81 +96,85 @@
 }
 
 .card-title {
-  font-size: 26px;
+  font-size: 18px;
   font-weight: 900;
   color: #fff;
-  margin: 0 0 10px;
-  letter-spacing: -0.5px;
+  margin: 0 0 4px;
+  letter-spacing: -0.3px;
 }
 
 .card-year {
-  font-size: 20px;
+  font-size: 15px;
   font-weight: 400;
   color: #aaa;
 }
 
 .card-synopsis {
-  font-size: 12px;
+  font-size: 11px;
   color: #aaa;
-  line-height: 1.6;
-  margin: 0 0 20px;
+  line-height: 1.5;
+  margin: 0 0 10px;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 /* Ratings block */
 .ratings-block {
   display: flex;
   align-items: center;
-  gap: 24px;
-  margin-bottom: 20px;
+  gap: 16px;
+  margin-bottom: 10px;
 }
 
 .rating-list {
   display: flex;
   flex-direction: column;
-  gap: 6px;
+  gap: 3px;
 }
 
 .rating-row {
   display: flex;
-  gap: 10px;
+  gap: 8px;
   align-items: center;
 }
 
 .rl {
   color: #888;
-  font-size: 12px;
-  min-width: 80px;
+  font-size: 11px;
+  min-width: 70px;
 }
 
 .rv {
   color: #fff;
-  font-size: 12px;
+  font-size: 11px;
   font-weight: 600;
 }
 
 .meta-list {
   display: flex;
   flex-direction: column;
-  gap: 6px;
+  gap: 3px;
   margin-left: auto;
 }
 
 .meta-row {
   display: flex;
-  gap: 10px;
+  gap: 8px;
   align-items: center;
 }
 
 .ml {
   color: #888;
-  font-size: 12px;
-  min-width: 80px;
+  font-size: 11px;
+  min-width: 70px;
   text-align: right;
 }
 
 .mv {
   color: #2ecc71;
-  font-size: 12px;
+  font-size: 11px;
   font-weight: 600;
   white-space: nowrap;
 }
@@ -192,27 +182,29 @@
 /* Cast */
 .cast-section {
   display: flex;
-  flex-direction: column;
-  gap: 12px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 6px 16px;
   border-top: 1px solid #3a3a3a;
-  padding-top: 16px;
+  padding-top: 8px;
+  margin-top: 2px;
 }
 
 .cast-item {
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 6px;
 }
 
 .cast-avatar {
-  width: 34px;
-  height: 34px;
+  width: 24px;
+  height: 24px;
   border-radius: 50%;
   background: #3a3a3a;
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 11px;
+  font-size: 9px;
   font-weight: 700;
   color: #2ecc71;
   flex-shrink: 0;
@@ -221,27 +213,26 @@
 
 .cast-name {
   color: #ccc;
-  font-size: 13px;
-  min-width: 160px;
+  font-size: 11px;
+  min-width: unset;
 }
 
 .cast-as {
   color: #555;
-  font-size: 12px;
+  font-size: 10px;
   font-style: italic;
 }
 
 .cast-role {
   color: #fff;
-  font-size: 13px;
+  font-size: 11px;
   font-weight: 700;
-  margin-left: auto;
+  margin-left: 0;
 }
 
 .cast-more {
   color: #555;
-  font-size: 18px;
-  text-align: center;
-  padding-top: 4px;
+  font-size: 14px;
   letter-spacing: 3px;
+  align-self: center;
 }

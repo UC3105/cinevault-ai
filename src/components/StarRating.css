@@ -1,8 +1,8 @@
 .star-rating {
   display: flex;
   align-items: center;
-  gap: 8px;
-  margin-bottom: 12px;
+  gap: 6px;
+  margin-bottom: 6px;
 }
 
 .star-label {
@@ -18,7 +18,7 @@
 .star {
   background: none;
   border: none;
-  font-size: 20px;
+  font-size: 15px;
   color: #3a3a3a;
   cursor: pointer;
   padding: 0 1px;

@@ -46,7 +46,6 @@ const App = () => {
             </div>
           </div>
 
-          <AdBanner />
           <SearchBar value={search} onChange={setSearch} />
           <GenreFilter genres={allGenres} active={genre} onChange={setGenre} />
 
@@ -64,6 +63,7 @@ const App = () => {
           )}
 
           <Newsletter />
+          <AdBanner />
           <Footer />
         </div>
       </main>

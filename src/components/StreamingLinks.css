@@ -1,10 +1,10 @@
 .streaming {
   display: flex;
   align-items: center;
-  gap: 10px;
-  padding: 10px 0 4px;
+  gap: 8px;
+  padding: 6px 0 2px;
   border-top: 1px solid #3a3a3a;
-  margin-top: 8px;
+  margin-top: 6px;
 }
 
 .streaming-label {
