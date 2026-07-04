@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <circle cx="40" cy="40" r="40" fill="#1a2a1a"/>
+  <circle cx="40" cy="30" r="14" fill="#2ecc71" opacity="0.8"/>
+  <ellipse cx="40" cy="62" rx="22" ry="14" fill="#2ecc71" opacity="0.6"/>
+  <text x="40" y="34" font-family="Georgia,serif" font-size="14" fill="#000" text-anchor="middle" font-weight="bold">MS</text>
+</svg>

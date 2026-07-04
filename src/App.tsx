@@ -9,6 +9,7 @@ import AdBanner from './components/AdBanner'
 import Footer from './components/Footer'
 import PageBanner from './components/PageBanner'
 import SeriesPage from './pages/SeriesPage'
+import MerylPage from './pages/MerylPage'
 import { movies } from './data/movies'
 import './App.css'
 
@@ -79,6 +80,7 @@ const App = () => (
   <Routes>
     <Route path="/" element={<HomePage />} />
     <Route path="/series" element={<SeriesPage />} />
+    <Route path="/meryl-streep" element={<MerylPage />} />
   </Routes>
 )
 

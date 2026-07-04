@@ -17,6 +17,13 @@ const banners: BannerItem[] = [
     emoji: '📺',
     color: '#2ecc71',
   },
+  {
+    label: 'Meryl Streep',
+    description: '3 Oscars · 21 nominations · Essential filmography',
+    route: '/meryl-streep',
+    emoji: '🎭',
+    color: '#e8b4d0',
+  },
 ]
 
 const PageBanner = () => {
