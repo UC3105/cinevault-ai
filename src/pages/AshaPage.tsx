@@ -57,7 +57,7 @@ const AshaPage = () => {
             <div className="actor-bio">
               <h2 className="actor-name">Asha Parekh</h2>
               <p className="actor-tagline asha-tagline">Filmfare Best Actress · Padma Bhushan · The Hit Girl of Bollywood</p>
-              <p className="actor-desc">From her debut in Dil Deke Dekho to the golden era of 1960s–70s Hindi cinema, Asha Parekh defined a generation. With her electric screen presence, dancing brilliance, and effortless range across romance, comedy, and drama, she was the reigning queen of Bollywood for over a decade — and remains one of its most cherished icons.</p>
+              <p className="actor-desc">From her debut in Dil Deke Dekho to the golden era of 1960s–70s Hindi cinema, Asha Parekh defined a generation. With her electric screen presence, dancing brilliance, and effortless range across romance, comedy, and drama, she was the reigning queen of Bollywood for over a decade. Browse her films — including her beloved collaborations with Biswajit Chatterjee — and relive the magic of classic Hindi cinema.</p>
             </div>
           </div>
 
