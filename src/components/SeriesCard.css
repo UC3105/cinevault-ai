@@ -1,0 +1,14 @@
+/* inherits all .card, .card-left, .card-right, .btn-*, .cast-*, .ratings-block styles from MovieCard.css */
+/* series-specific badge */
+.series-badge {
+  display: inline-block;
+  background: #2ecc71;
+  color: #000;
+  font-size: 9px;
+  font-weight: 800;
+  letter-spacing: 1px;
+  padding: 2px 7px;
+  border-radius: 3px;
+  margin-bottom: 6px;
+  text-transform: uppercase;
+}

@@ -1,0 +1,15 @@
+.back-btn {
+  background: none;
+  border: none;
+  color: #2ecc71;
+  font-size: 12px;
+  font-weight: 700;
+  cursor: pointer;
+  padding: 0;
+  margin-bottom: 4px;
+  display: block;
+  letter-spacing: 0.3px;
+  transition: opacity 0.15s;
+}
+
+.back-btn:hover { opacity: 0.7; }

@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { Routes, Route } from 'react-router-dom'
 import MovieCard from './components/MovieCard'
 import Sidebar from './components/Sidebar'
 import SearchBar from './components/SearchBar'
@@ -6,12 +7,14 @@ import GenreFilter from './components/GenreFilter'
 import Newsletter from './components/Newsletter'
 import AdBanner from './components/AdBanner'
 import Footer from './components/Footer'
+import PageBanner from './components/PageBanner'
+import SeriesPage from './pages/SeriesPage'
 import { movies } from './data/movies'
 import './App.css'
 
 const allGenres = Array.from(new Set(movies.flatMap(m => m.genres))).sort()
 
-const App = () => {
+const HomePage = () => {
   const [search, setSearch] = useState('')
   const [genre, setGenre] = useState('All')
   const [watchlist, setWatchlist] = useState<Set<string>>(() => {
@@ -46,6 +49,7 @@ const App = () => {
             </div>
           </div>
 
+          <PageBanner />
           <SearchBar value={search} onChange={setSearch} />
           <GenreFilter genres={allGenres} active={genre} onChange={setGenre} />
 
@@ -70,5 +74,12 @@ const App = () => {
     </div>
   )
 }
+
+const App = () => (
+  <Routes>
+    <Route path="/" element={<HomePage />} />
+    <Route path="/series" element={<SeriesPage />} />
+  </Routes>
+)
 
 export default App
