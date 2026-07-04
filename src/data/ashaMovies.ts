@@ -14,7 +14,7 @@ export const ashaMovies: Movie[] = [
     metascore: 7.5,
     usersRating: 7.8,
     poster: '/asha-dil-deke-dekho.jpg',
-    trailerId: 'kWQnEzAG1TU',
+    trailerId: '7QYdVY9xyO8',
     cast: [
       { name: 'Asha Parekh', role: 'Neeta', initials: 'AP' },
       { name: 'Shammi Kapoor', role: 'Raju', initials: 'SK' },
@@ -37,7 +37,7 @@ export const ashaMovies: Movie[] = [
     metascore: 8.0,
     usersRating: 8.2,
     poster: '/asha-teesri-manzil.jpg',
-    trailerId: 'CdU0aTZ-jSA',
+    trailerId: 'Tzjk6tLYF9o',
     cast: [
       { name: 'Asha Parekh', role: 'Sunita', initials: 'AP' },
       { name: 'Shammi Kapoor', role: 'Rocky', initials: 'SK' },
@@ -61,7 +61,7 @@ export const ashaMovies: Movie[] = [
     metascore: 7.4,
     usersRating: 7.6,
     poster: '/asha-baharon-ke-sapne.jpg',
-    trailerId: 'a3JGMOS8eKU',
+    trailerId: '-BqdLRrG3_Q',
     cast: [
       { name: 'Asha Parekh', role: 'Rani', initials: 'AP' },
       { name: 'Rajesh Khanna', role: 'Suresh', initials: 'RK' },
@@ -84,7 +84,7 @@ export const ashaMovies: Movie[] = [
     metascore: 7.8,
     usersRating: 8.0,
     poster: '/asha-kati-patang.jpg',
-    trailerId: 'IuM8MwBpDOg',
+    trailerId: 'tIM7VzQDqzQ',
     cast: [
       { name: 'Asha Parekh', role: 'Madhavi / Poonam', initials: 'AP' },
       { name: 'Rajesh Khanna', role: 'Kamal', initials: 'RK' },
@@ -108,7 +108,7 @@ export const ashaMovies: Movie[] = [
     metascore: 7.3,
     usersRating: 7.5,
     poster: '/asha-aan-milo-sajna.jpg',
-    trailerId: '5UCBdERHtZg',
+    trailerId: '0JYfgXS4Yr8',
     cast: [
       { name: 'Asha Parekh', role: 'Kajal', initials: 'AP' },
       { name: 'Rajesh Khanna', role: 'Shyam', initials: 'RK' },
@@ -131,7 +131,7 @@ export const ashaMovies: Movie[] = [
     metascore: 7.5,
     usersRating: 7.7,
     poster: '/asha-caravan.jpg',
-    trailerId: 'XKNjKkUVsFY',
+    trailerId: 'Y0Q6HE_Ievc',
     cast: [
       { name: 'Asha Parekh', role: 'Sunita', initials: 'AP' },
       { name: 'Jeetendra', role: 'Mohan', initials: 'JT' },
@@ -155,7 +155,7 @@ export const ashaMovies: Movie[] = [
     metascore: 7.6,
     usersRating: 7.8,
     poster: '/asha-mera-gaon.jpg',
-    trailerId: 'gXeVQR_AROU',
+    trailerId: 'i3xBsTBokRE',
     cast: [
       { name: 'Asha Parekh', role: 'Asha', initials: 'AP' },
       { name: 'Dharmendra', role: 'Jaidev', initials: 'DH' },
@@ -178,7 +178,7 @@ export const ashaMovies: Movie[] = [
     metascore: 7.7,
     usersRating: 7.9,
     poster: '/asha-do-badan.jpg',
-    trailerId: '0jL8mmGhVzE',
+    trailerId: 'D7p45fRZ7fw',
     cast: [
       { name: 'Asha Parekh', role: 'Seema', initials: 'AP' },
       { name: 'Manoj Kumar', role: 'Ramesh', initials: 'MK' },
@@ -201,7 +201,7 @@ export const ashaMovies: Movie[] = [
     metascore: 7.2,
     usersRating: 7.4,
     poster: '/asha-pagla-kahin-ka.jpg',
-    trailerId: 'r7VPE49DJFU',
+    trailerId: '5DNAKL5rywg',
     cast: [
       { name: 'Asha Parekh', role: 'Renu', initials: 'AP' },
       { name: 'Shammi Kapoor', role: 'Ravi', initials: 'SK' },
@@ -224,7 +224,7 @@ export const ashaMovies: Movie[] = [
     metascore: 7.1,
     usersRating: 7.3,
     poster: '/asha-ziddi.jpg',
-    trailerId: 'C3MIXAFEpUQ',
+    trailerId: 'fCdD--3wQ8E',
     cast: [
       { name: 'Asha Parekh', role: 'Meena', initials: 'AP' },
       { name: 'Joy Mukherjee', role: 'Raja', initials: 'JM' },
@@ -236,52 +236,6 @@ export const ashaMovies: Movie[] = [
   },
 
   // ── Asha Parekh & Biswajit Chatterjee ──────────────────────────────────────
-  {
-    title: 'April Fool',
-    year: 1964,
-    synopsis: 'A wealthy industrialist\'s son poses as a simple man to win the love of a genuine girl who dislikes rich suitors. This romantic comedy pairs Biswajit and Asha Parekh with great chemistry, enchanting melodies by S.D. Burman, and sparkling dialogue by Shailendra. One of the most charming comedies of the 1960s.',
-    genre: 'Romance, Comedy, Musical',
-    genres: ['Romance', 'Comedy', 'Musical', 'Classic Bollywood', 'With Biswajit'],
-    releaseDate: '1964',
-    duration: '151 min',
-    overallScore: 7.5,
-    yourRating: 8.0,
-    metascore: 7.3,
-    usersRating: 7.5,
-    poster: '/asha-april-fool.jpg',
-    trailerId: 'wE7X3v0IUb4',
-    cast: [
-      { name: 'Biswajit Chatterjee', role: 'Raju / Rajan', initials: 'BC' },
-      { name: 'Asha Parekh', role: 'Seema', initials: 'AP' },
-      { name: 'Shashikala', role: 'Bela', initials: 'SH' },
-    ],
-    streaming: [
-      { name: 'YouTube', url: 'https://www.youtube.com/results?search_query=April+Fool+1964+Biswajit+Asha+Parekh+full+movie', color: '#ff0000' },
-    ],
-  },
-  {
-    title: 'Shehnai',
-    year: 1964,
-    synopsis: 'A romantic musical about a young man whose passion for playing the shehnai (Indian oboe) sets him on a path to fame and love. S.D. Burman\'s gorgeous score and the pairing of Biswajit and Asha Parekh make this a warm, melodious classic of Hindi cinema.',
-    genre: 'Romance, Drama, Musical',
-    genres: ['Romance', 'Drama', 'Musical', 'Classic Bollywood', 'With Biswajit'],
-    releaseDate: '1964',
-    duration: '148 min',
-    overallScore: 7.4,
-    yourRating: 7.8,
-    metascore: 7.2,
-    usersRating: 7.4,
-    poster: '/asha-shehnai.svg',
-    trailerId: 'tvL-0-eCzaE',
-    cast: [
-      { name: 'Biswajit Chatterjee', role: 'Shyam', initials: 'BC' },
-      { name: 'Asha Parekh', role: 'Radha', initials: 'AP' },
-      { name: 'Nazima', role: 'Sunita', initials: 'NZ' },
-    ],
-    streaming: [
-      { name: 'YouTube', url: 'https://www.youtube.com/results?search_query=Shehnai+1964+Biswajit+Asha+Parekh+full+movie', color: '#ff0000' },
-    ],
-  },
   {
     title: 'Mere Sanam',
     year: 1965,
@@ -295,7 +249,7 @@ export const ashaMovies: Movie[] = [
     metascore: 7.5,
     usersRating: 7.7,
     poster: '/asha-mere-sanam.jpg',
-    trailerId: 'dX7e3L_jYhQ',
+    trailerId: 'v5uZS2Rhy5I',
     cast: [
       { name: 'Biswajit Chatterjee', role: 'Anand', initials: 'BC' },
       { name: 'Asha Parekh', role: 'Mala', initials: 'AP' },
@@ -304,29 +258,6 @@ export const ashaMovies: Movie[] = [
     streaming: [
       { name: 'Prime Video', url: 'https://www.amazon.com/primevideo?tag=cinebook2109-21', color: '#00a8e0' },
       { name: 'YouTube', url: 'https://www.youtube.com/results?search_query=Mere+Sanam+1965+full+movie', color: '#ff0000' },
-    ],
-  },
-  {
-    title: 'Do Dil',
-    year: 1965,
-    synopsis: 'Two hearts drawn together by circumstance and separated by misunderstanding — a lyrical romance about destiny and love. Biswajit and Asha Parekh bring tender vulnerability to this heartfelt melodrama, elevated by a soulful soundtrack that lingers long after the final reel.',
-    genre: 'Romance, Drama, Musical',
-    genres: ['Romance', 'Drama', 'Musical', 'Classic Bollywood', 'With Biswajit'],
-    releaseDate: '1965',
-    duration: '150 min',
-    overallScore: 7.3,
-    yourRating: 7.7,
-    metascore: 7.1,
-    usersRating: 7.3,
-    poster: '/asha-do-dil.svg',
-    trailerId: 'g4kNHbIBzQI',
-    cast: [
-      { name: 'Biswajit Chatterjee', role: 'Rajan', initials: 'BC' },
-      { name: 'Asha Parekh', role: 'Mala', initials: 'AP' },
-      { name: 'Shashikala', role: 'Rekha', initials: 'SH' },
-    ],
-    streaming: [
-      { name: 'YouTube', url: 'https://www.youtube.com/results?search_query=Do+Dil+1965+Biswajit+Asha+Parekh+full+movie', color: '#ff0000' },
     ],
   },
 ]

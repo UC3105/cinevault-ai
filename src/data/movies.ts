@@ -200,7 +200,7 @@ export const movies: Movie[] = [
     metascore: 8.0,
     usersRating: 8.1,
     poster: '/weisse-naechte.jpg',
-    trailerId: '-PyMjBuqvFA',
+    trailerId: '_XCPFsWl1tg',
     cast: [
       { name: 'Marcello Mastroianni', role: 'Mario', initials: 'MM' },
       { name: 'Maria Schell', role: 'Natalia', initials: 'MS' },
