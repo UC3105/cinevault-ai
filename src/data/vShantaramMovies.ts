@@ -13,7 +13,7 @@ export const vShantaramMovies: Movie[] = [
     yourRating: 8.7,
     metascore: 8.1,
     usersRating: 8.3,
-    poster: '/vshantaram-jhanak-payal-baaje.jpg',
+    poster: '/vshantaram-jhanak-payal-baaje.svg',
     trailerId: '',
     cast: [
       { name: 'Sandhya', role: 'Geeta', initials: 'SA' },
@@ -35,7 +35,7 @@ export const vShantaramMovies: Movie[] = [
     yourRating: 8.8,
     metascore: 8.3,
     usersRating: 8.5,
-    poster: '/vshantaram-navrang.jpg',
+    poster: '/vshantaram-navrang.svg',
     trailerId: '',
     cast: [
       { name: 'Sandhya', role: 'Kunda', initials: 'SA' },
@@ -57,7 +57,7 @@ export const vShantaramMovies: Movie[] = [
     yourRating: 8.6,
     metascore: 8.2,
     usersRating: 8.4,
-    poster: '/vshantaram-do-aankhen-barah-haath.jpg',
+    poster: '/vshantaram-do-aankhen-barah-haath.svg',
     trailerId: '',
     cast: [
       { name: 'V. Shantaram', role: 'Hari Damle', initials: 'VS' },
@@ -79,7 +79,7 @@ export const vShantaramMovies: Movie[] = [
     yourRating: 8.6,
     metascore: 8.0,
     usersRating: 8.2,
-    poster: '/vshantaram-duniya-na-mane.jpg',
+    poster: '/vshantaram-duniya-na-mane.svg',
     trailerId: '',
     cast: [
       { name: 'V. Shantaram', role: 'Hari', initials: 'VS' },
@@ -101,7 +101,7 @@ export const vShantaramMovies: Movie[] = [
     yourRating: 8.3,
     metascore: 7.7,
     usersRating: 7.9,
-    poster: '/vshantaram-kisan-kanya.jpg',
+    poster: '/vshantaram-kisan-kanya.svg',
     trailerId: '',
     cast: [
       { name: 'Meena Kumari', role: 'Savitri', initials: 'MK' },
@@ -123,7 +123,7 @@ export const vShantaramMovies: Movie[] = [
     yourRating: 8.4,
     metascore: 7.8,
     usersRating: 8.0,
-    poster: '/vshantaram-ashadi-ka-avaaz.jpg',
+    poster: '/vshantaram-ashadi-ka-avaaz.svg',
     trailerId: '',
     cast: [
       { name: 'V. Shantaram', role: 'Ramu', initials: 'VS' },
@@ -145,7 +145,7 @@ export const vShantaramMovies: Movie[] = [
     yourRating: 8.2,
     metascore: 7.6,
     usersRating: 7.8,
-    poster: '/vshantaram-prabhat-ki-kiran.jpg',
+    poster: '/vshantaram-prabhat-ki-kiran.svg',
     trailerId: '',
     cast: [
       { name: 'V. Shantaram', role: 'Vikram', initials: 'VS' },
@@ -167,7 +167,7 @@ export const vShantaramMovies: Movie[] = [
     yourRating: 8.8,
     metascore: 8.2,
     usersRating: 8.4,
-    poster: '/vshantaram-shakuntala.jpg',
+    poster: '/vshantaram-shakuntala.svg',
     trailerId: '',
     cast: [
       { name: 'Pauline Frederick', role: 'Shakuntala', initials: 'PF' },
@@ -189,7 +189,7 @@ export const vShantaramMovies: Movie[] = [
     yourRating: 8.5,
     metascore: 7.9,
     usersRating: 8.1,
-    poster: '/vshantaram-jhala.jpg',
+    poster: '/vshantaram-jhala.svg',
     trailerId: '',
     cast: [
       { name: 'V. Shantaram', role: 'Arjun', initials: 'VS' },
@@ -211,7 +211,7 @@ export const vShantaramMovies: Movie[] = [
     yourRating: 8.1,
     metascore: 7.5,
     usersRating: 7.7,
-    poster: '/vshantaram-ram-rajya.jpg',
+    poster: '/vshantaram-ram-rajya.svg',
     trailerId: '',
     cast: [
       { name: 'Pradeep Kumar', role: 'Rama', initials: 'PK' },
@@ -233,7 +233,7 @@ export const vShantaramMovies: Movie[] = [
     yourRating: 8.0,
     metascore: 7.4,
     usersRating: 7.6,
-    poster: '/vshantaram-amar-bhoopali.jpg',
+    poster: '/vshantaram-amar-bhoopali.svg',
     trailerId: '',
     cast: [
       { name: 'V. Shantaram', role: 'Prince', initials: 'VS' },
@@ -255,7 +255,7 @@ export const vShantaramMovies: Movie[] = [
     yourRating: 7.9,
     metascore: 7.3,
     usersRating: 7.5,
-    poster: '/vshantaram-govind-ballal-prabhu.jpg',
+    poster: '/vshantaram-govind-ballal-prabhu.svg',
     trailerId: '',
     cast: [
       { name: 'V. Shantaram', role: 'Govind', initials: 'VS' },
