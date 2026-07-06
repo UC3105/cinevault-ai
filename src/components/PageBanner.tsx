@@ -52,6 +52,13 @@ const banners: BannerItem[] = [
     emoji: '🎞️',
     color: '#c0392b',
   },
+  {
+    label: 'V Shantaram',
+    description: 'Duniya Na Mane · Shakuntala · Pioneer of Indian cinema',
+    route: '/v-shantaram',
+    emoji: '🎬',
+    color: '#8e44ad',
+  },
 ]
 
 const PageBanner = () => {

@@ -58,3 +58,33 @@
   width: 820px;
   text-align: center;
 }
+
+.rating-circle {
+  position: relative;
+  width: 58px !important;
+  height: 58px !important;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.rating-circle svg {
+  display: block;
+  width: 58px;
+  height: 58px;
+}
+
+.rating-circle .rating-value {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  font-weight: 700;
+  color: #fff;
+  line-height: 1;
+  z-index: 2;
+  pointer-events: none;
+}

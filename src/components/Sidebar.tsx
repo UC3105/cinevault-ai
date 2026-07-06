@@ -12,7 +12,7 @@ const navIcons = [
 const Sidebar = () => {
   return (
     <aside className="sidebar">
-      <div className="sidebar-logo">CV</div>
+      <div className="sidebar-logo"></div>
       <nav className="sidebar-nav">
         {navIcons.map(({ label, path }, i) => (
           <button key={label} className={`nav-icon${i === 0 ? ' active' : ''}`} title={label}>
